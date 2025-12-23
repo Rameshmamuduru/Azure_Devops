@@ -22,31 +22,31 @@
   **Azure is providing four kind of processess**
   
 **1. Basic**
-      a. EPIC
-      b. Issue
-      c. Task
+   - EPIC
+   - Issue
+   - Task
       
 **2. Agile**
-      a. EPIC
-      b. Features
-      c. User Story
-      d. Task
-      e. Bug
+   - EPIC
+   - Features
+   - User Story
+   - Task
+   - Bug
       
 **3.scrum**
-      a. EPIC
-      b. Features
-      c. Product Backlog Item (PBI)
-      d. Task 
-      e. Bug
+   - EPIC
+   - Features
+   - Product Backlog Item (PBI)
+   - Task 
+   - Bug
       
 **4.CMMI**
-      a. EPIC
-      b. Features
-      c. Requirements
-      d. Task
-      e. Bug
-      f. Change Request
+   - EPIC
+   - Features
+   - Requirements
+   - Task
+   - Bug
+   - Change Request
       
 
 
