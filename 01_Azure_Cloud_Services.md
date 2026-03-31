@@ -1,11 +1,11 @@
 # Azure Compute Resources:
 
 
-- 1. Azure Virtual Mechine          
-- 2. Azure Mechine Scale Sets     
-- 3. Azure Kuberbetes Services
-- 4. Azure App Services
-- 5. Azure Functions
+- Azure Virtual Mechine          
+- Azure Mechine Scale Sets     
+- Azure Kuberbetes Services
+- Azure App Services
+- Azure Functions
 
 # Ways to Connect to VM in Azure:
 
